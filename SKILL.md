@@ -1,3 +1,11 @@
+---
+name: fuzzy-potato
+description: >
+  A human-first writing skill that adapts AI-generated content to the user's
+  natural writing voice while preserving meaning, context, accuracy, and
+  authenticity. Use when rewriting, polishing, humanizing, improving, or
+  drafting content where natural and context-aware communication matters.
+---
 # Human-First Writing Skill
 
 ## Mission
